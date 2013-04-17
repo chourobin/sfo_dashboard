@@ -1,0 +1,16 @@
+{
+	"name"			: "foursquare-sfo-chourobin",
+	"description"	: "A real time dashboard for the Foursquare SFO venue",
+	"version"		: "1.0.0",
+	"private"		: true,
+	"engines": {
+	    "node": "0.8.4",
+	    "npm": "1.1.41"
+	},
+	"dependencies"	: {
+		"express"	: "latest",
+		"ejs"		: ">=0.8.3",
+		"node-compass" : ">=0.2.0",
+		"konphyg" : "*"
+	}
+}
