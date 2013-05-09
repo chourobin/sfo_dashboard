@@ -8,7 +8,7 @@ Preview at http://sfodashboard.herokuapp.com.
 - Periodic updates using HTML5 server-side events (SSEs)
 - Front-end styled with SCSS and Compass
 
-# Heroku setup
+## Heroku setup
 
 ````
 heroku config:add foursquare_api=<API_KEY>
